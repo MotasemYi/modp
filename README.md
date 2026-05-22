@@ -2,7 +2,8 @@
 
 **Course:** Heuristic Optimization Algorithms — Term Project (30% of final grade)  
 **Model:** Multi-Objective Multidimensional Knapsack Problem (MOMKP)  
-**Algorithms:** NSGA-II and SPEA2 via [pymoo](https://pymoo.org/)
+**Algorithms:** NSGA-II and SPEA2 via [pymoo](https://pymoo.org/)  
+**Repository:** https://github.com/MotasemYi/modp
 
 ---
 
